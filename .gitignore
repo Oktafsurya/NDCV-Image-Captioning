@@ -4,9 +4,9 @@ __pycache__/
 
 */__pycache__/
 
-models/
-
 .vscode/
 
 *.swp
+
+*.pkl
 
