@@ -23,3 +23,8 @@ and so on we use the word from the groundtruth caption as input to the LSTM.
 <p align="center"> 
 <img src=https://github.com/Oktafsurya/NDCV-Image-Captioning/blob/master/images/img_caption_result1.png> <img src=https://github.com/Oktafsurya/NDCV-Image-Captioning/blob/master/images/img_caption_result2.png>
 </p>
+
+## References
+1. [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf)
+
+2. [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
